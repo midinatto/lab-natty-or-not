@@ -23,29 +23,45 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Eu usei as tecnologias para criar um novo super héroi chamado super nova, e uma menina que espalharia a noticia pelo seu canal no youtube
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.IA, Open Ai (ChatGPT) e D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente pedi para o Gpt me dar ideias de projetos criativos, e uma ideias ele mensionou um cenario interestelar e outro de hérois e tive a ideia de fazer um novo super heroi com poderes de uma estrela, então coloquei no Leonardo.Ia a minha ideia para ele gerar uma imagem do mesmo, depois eu pedi pro Gpt fazer um roteiro para o video anunciando o hrio,e logo criei o video com D-ID de uma menina anunciando o novo super héroi. Porém nao consegui colocar o roteiro inteiro então vou disponibiliza-lo por aqui.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- [Vídeo](https://github.com/user-attachments/assets/da229cf6-896c-4f91-9615-7c0fb7ca90b1)
+- [Imagem](![Flux_Dev_A_majestic_superhero_named_Super_Nova_stands_proudly__0](https://github.com/user-attachments/assets/c05047a9-1673-42e2-b2af-39601e70b919)
+)
+-Roteiro: Uma Menina Apresenta o Novo Super-Herói "Super Nova"
 
-### Exemplos e Insigths
+Cena 1: Introdução(A câmera está posicionada em um quarto decorado com luzes de LED coloridas, pôsteres de heróis e uma prateleira cheia de action figures. A menina, empolgada, aparece na tela.)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Menina:Oi, pessoal! Tudo bem com vocês? Eu sou a Emi e hoje eu trago uma novidade que vai explodir a cabeça de todo mundo que AMA super-heróis como eu! Vocês estão prontos para conhecer o mais novo herói do pedaço? Ele é poderoso, brilhoso e... intergalático! Estou falando do Super Nova!
 
-## Links Interessantes
+Cena 2: Apresentação do Super-Herói(Corta para uma animação simples ou imagens criadas sobre o personagem Super Nova.)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Menina (narrando):O Super Nova não é um herói comum. Ele ganhou seus poderes de uma estrela que estava prestes a explodir! Quando a energia da supernova entrou no corpo dele, ele se transformou em algo muito mais do que humano. Agora ele consegue manipular a luz, criar explosões poderosíssimas e até voar na velocidade da luz! Mas o mais legal é que ele também pode aquecer ou iluminar lugares sombrios com sua energia estelar. Ele é literalmente uma estrela em forma de herói! ✨
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Cena 3: Origem e Motivação(Corta para outra ilustração do Super Nova ajudando pessoas.)
+
+Menina (narrando):Antes de se tornar o Super Nova, ele era um astrônomo chamado Leon. Ele passou anos estudando as estrelas, mas nunca imaginou que se tornaria parte de uma delas! Agora, ele protege o nosso planeta de ameaças espaciais e também luta para manter o equilíbrio entre os mundos. O que eu mais gosto nele é que ele sempre usa seus poderes para ajudar as pessoas, mesmo que isso signifique se sacrificar. Ele nos ensina que mesmo uma pequena faísca pode iluminar a escuridão!
+
+Cena 4: Fatos Divertidos(A menina aparece de volta na tela com uma plaquinha escrita "Curiosidades".)
+
+Menina:Agora, alguns fatos superlegais sobre o Super Nova que vocês precisam saber:
+
+Quando ele fica muito bravo, seus olhos brilham como dois sois!
+
+Ele tem um mascote chamado Comet, que é um meteoro vivo que o ajuda nas missões.
+
+Sua fraqueza é a energia negra, que pode apagar sua luz temporariamente.
+
+Cena 5: Encerramento(A menina está empolgada, mostrando um desenho ou figura do Super Nova.)
+
+Menina:Então, o que acharam do Super Nova? Eu já virei super fã! Conta aqui nos comentários qual poder dele vocês mais gostaram e se gostariam de ver mais heróis com temática espacial. E não esquece de curtir esse vídeo e se inscrever no canal, porque tem MUITO mais vindo por aí. Até a próxima, estrelas! Tchauuu!
+
+(Ela manda um beijo para a câmera e o vídeo termina com uma animação do Super Nova voando pelo espaço.)
