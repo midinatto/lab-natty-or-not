@@ -32,10 +32,10 @@ Leonardo.IA, Open Ai (ChatGPT) e D-ID
 Primeiramente pedi para o Gpt me dar ideias de projetos criativos, e uma ideias ele mensionou um cenario interestelar e outro de hérois e tive a ideia de fazer um novo super heroi com poderes de uma estrela, então coloquei no Leonardo.Ia a minha ideia para ele gerar uma imagem do mesmo, depois eu pedi pro Gpt fazer um roteiro para o video anunciando o hrio,e logo criei o video com D-ID de uma menina anunciando o novo super héroi. Porém nao consegui colocar o roteiro inteiro então vou disponibiliza-lo por aqui.
 
 ## 🚀 Resultados
+- [Vídeo] https://github.com/user-attachments/assets/47609057-245f-4201-8712-c4f5b99504af
+- [Imagem] https://github.com/user-attachments/assets/130a1ca7-db0f-4f8e-9d58-e1b36d1cdd36
 
-- [Vídeo](https://github.com/user-attachments/assets/da229cf6-896c-4f91-9615-7c0fb7ca90b1)
-- [Imagem](![Flux_Dev_A_majestic_superhero_named_Super_Nova_stands_proudly__0](https://github.com/user-attachments/assets/c05047a9-1673-42e2-b2af-39601e70b919)
-)
+
 -Roteiro: Uma Menina Apresenta o Novo Super-Herói "Super Nova"
 
 Cena 1: Introdução(A câmera está posicionada em um quarto decorado com luzes de LED coloridas, pôsteres de heróis e uma prateleira cheia de action figures. A menina, empolgada, aparece na tela.)
